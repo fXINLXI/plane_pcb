@@ -1,0 +1,7 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "WIO-sx1262") (type "KiCad") (uri "${KIPRJMOD}/WIO-sx1262.pretty") (options "") (descr ""))
+	(lib (name "RP2040") (type "KiCad") (uri "/home/flex/projekty/plane_pcb/RP2040.pretty") (options "") (descr ""))
+	(lib (name "RP PI PICO") (type "KiCad") (uri "${KIPRJMOD}/RP PI PICO.pretty") (options "") (descr ""))
+	(lib (name "MICROSD") (type "KiCad") (uri "${KIPRJMOD}/MICROSD.pretty") (options "") (descr ""))
+)
